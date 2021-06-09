@@ -1,5 +1,9 @@
 ![MasterHead](https://raw.githubusercontent.com/anderdam/anderdam/main/header.png)
 
+![Anderdam's GitHub stats](https://github-readme-stats.vercel.app/api?username=anderdam&show_icons=true&theme=dark)
+
+
+
 
 
 <!--
