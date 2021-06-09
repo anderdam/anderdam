@@ -1,4 +1,4 @@
-[![MasterHead](https://raw.githubusercontent.com/anderdam/anderdam/main/header.png)]
+![MasterHead](https://raw.githubusercontent.com/anderdam/anderdam/main/header.png)
 
 
 
