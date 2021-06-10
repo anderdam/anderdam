@@ -10,7 +10,6 @@
   <i></i>Be my guest to take a look and send me any advice or tips, let's get in touch!</i>
 </p>
 
----
 <br>
 
 <!-- Social Section -->
