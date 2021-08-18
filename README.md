@@ -42,8 +42,8 @@
  </div>
   
  <div>
-   <img height="380em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anderdam&layout-default&langs_count=8&theme=dark" />
-   <img height="380em" src="https://github-readme-stats.vercel.app/api/wakatime?username=anderdam&theme=dark&layout-default"
+   <img height="360em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anderdam&layout-default&langs_count=8&theme=dark" />
+   <img height="360em" src="https://github-readme-stats.vercel.app/api/wakatime?username=anderdam&theme=dark&layout-default"
   </div>
 
 ![](https://komarev.com/ghpvc/?username=anderdam)
