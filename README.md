@@ -5,7 +5,6 @@
   <i></i>My name is Anderson Damasceno, I'm a Software Engineer student and these repositories are projects I made following courses and some personal ideas. </i>
 </p>
 
-
 <p>
   <i></i>Be my guest to take a look and send me any advice or tips, let's get in touch!</i>
 </p>
@@ -39,16 +38,12 @@
 
 <div>
   <a href="https://github.com/anderdam">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anderdam&show_icons=true&theme=dark&include_all_commits-tue&count_private-true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anderdam&layout-compact&langs_count=16&theme=dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anderdam&show_icons=true&theme=dark&include_all_commits-tue&count_private-true"/>  
  </div>
-
-![Anderdam's GitHub stats](https://github-readme-stats.vercel.app/api?username=anderdam&show_icons=true&theme=dark)
-
-
-[![Anderdam's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=anderdam&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-
+  
+ <div>
+   <img height="380em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anderdam&layout-default&langs_count=8&theme=dark" />
+   <img height="380em" src="https://github-readme-stats.vercel.app/api/wakatime?username=anderdam&theme=dark&layout-default"
+  </div>
 
 ![](https://komarev.com/ghpvc/?username=anderdam)
-
