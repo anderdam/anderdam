@@ -32,14 +32,16 @@
 </p>
 <p align="center"><a href="https://icons8.com/icon/80462/github">Icons by Icons8</a></p>
 
-<!-- <a href="https://github.com/tallguyjenks/CV/blob/master/CV.pdf">
-    <img src="https://img.icons8.com/material-outlined/30/689d6a/parse-from-clipboard.png"/>
-  </a> -->
+
 <!-- Social Section End -->
 
 ---
 
-
+<div>
+  <a href="https://github.com/anderdam">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anderdam&show_icons=true&theme=dark&include_all_commits-tue&count_private-true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anderdam&layout-compact&langs_count=16&theme=dark" />
+ </div>
 
 ![Anderdam's GitHub stats](https://github-readme-stats.vercel.app/api?username=anderdam&show_icons=true&theme=dark)
 
