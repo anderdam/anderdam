@@ -2,7 +2,7 @@
   <i>Hello there 👋</i>
 </p>
 <p>
-  <i></i>My name is Anderson Damasceno, I'm a Software Engineer student and these repositories are projects I made following courses and some personal ideas. </i>
+  <i></i>My name is Anderson Damasceno, I'm a Data Engineer, these repositories are projects I made following courses and some personal ideas. </i>
 </p>
 
 <p>
